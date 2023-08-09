@@ -1,0 +1,15 @@
+D:\ProgrammingLanguagues\CSharp\String\obj\Debug\net6.0\String.csproj.AssemblyReference.cache
+D:\ProgrammingLanguagues\CSharp\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingLanguagues\CSharp\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+D:\ProgrammingLanguagues\CSharp\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+D:\ProgrammingLanguagues\CSharp\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+D:\ProgrammingLanguagues\CSharp\String\bin\Debug\net6.0\String.exe
+D:\ProgrammingLanguagues\CSharp\String\bin\Debug\net6.0\String.deps.json
+D:\ProgrammingLanguagues\CSharp\String\bin\Debug\net6.0\String.runtimeconfig.json
+D:\ProgrammingLanguagues\CSharp\String\bin\Debug\net6.0\String.dll
+D:\ProgrammingLanguagues\CSharp\String\bin\Debug\net6.0\String.pdb
+D:\ProgrammingLanguagues\CSharp\String\obj\Debug\net6.0\String.dll
+D:\ProgrammingLanguagues\CSharp\String\obj\Debug\net6.0\refint\String.dll
+D:\ProgrammingLanguagues\CSharp\String\obj\Debug\net6.0\String.pdb
+D:\ProgrammingLanguagues\CSharp\String\obj\Debug\net6.0\String.genruntimeconfig.cache
+D:\ProgrammingLanguagues\CSharp\String\obj\Debug\net6.0\ref\String.dll

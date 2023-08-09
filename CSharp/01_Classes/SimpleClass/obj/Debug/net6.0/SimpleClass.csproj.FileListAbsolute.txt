@@ -1,0 +1,15 @@
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\bin\Debug\net6.0\SimpleClass.exe
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\bin\Debug\net6.0\SimpleClass.deps.json
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\bin\Debug\net6.0\SimpleClass.runtimeconfig.json
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\bin\Debug\net6.0\SimpleClass.dll
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\bin\Debug\net6.0\SimpleClass.pdb
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\obj\Debug\net6.0\SimpleClass.csproj.AssemblyReference.cache
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\obj\Debug\net6.0\SimpleClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\obj\Debug\net6.0\SimpleClass.AssemblyInfoInputs.cache
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\obj\Debug\net6.0\SimpleClass.AssemblyInfo.cs
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\obj\Debug\net6.0\SimpleClass.csproj.CoreCompileInputs.cache
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\obj\Debug\net6.0\SimpleClass.dll
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\obj\Debug\net6.0\refint\SimpleClass.dll
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\obj\Debug\net6.0\SimpleClass.pdb
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\obj\Debug\net6.0\SimpleClass.genruntimeconfig.cache
+D:\ProgrammingLanguagues\CSharp\01_Classes\SimpleClass\obj\Debug\net6.0\ref\SimpleClass.dll

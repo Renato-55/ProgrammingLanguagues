@@ -1,0 +1,15 @@
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\bin\Debug\net6.0\OtherClasses.exe
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\bin\Debug\net6.0\OtherClasses.deps.json
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\bin\Debug\net6.0\OtherClasses.runtimeconfig.json
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\bin\Debug\net6.0\OtherClasses.dll
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\bin\Debug\net6.0\OtherClasses.pdb
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\obj\Debug\net6.0\OtherClasses.csproj.AssemblyReference.cache
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\obj\Debug\net6.0\OtherClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\obj\Debug\net6.0\OtherClasses.AssemblyInfoInputs.cache
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\obj\Debug\net6.0\OtherClasses.AssemblyInfo.cs
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\obj\Debug\net6.0\OtherClasses.csproj.CoreCompileInputs.cache
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\obj\Debug\net6.0\OtherClasses.dll
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\obj\Debug\net6.0\refint\OtherClasses.dll
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\obj\Debug\net6.0\OtherClasses.pdb
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\obj\Debug\net6.0\OtherClasses.genruntimeconfig.cache
+D:\ProgrammingLanguagues\CSharp\01_Classes\OtherClasses\obj\Debug\net6.0\ref\OtherClasses.dll

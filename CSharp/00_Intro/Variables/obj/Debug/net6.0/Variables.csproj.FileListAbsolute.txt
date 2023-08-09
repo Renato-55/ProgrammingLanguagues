@@ -1,0 +1,15 @@
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\bin\Debug\net6.0\Variables.exe
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\bin\Debug\net6.0\Variables.deps.json
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\bin\Debug\net6.0\Variables.dll
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\bin\Debug\net6.0\Variables.pdb
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\obj\Debug\net6.0\Variables.dll
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\obj\Debug\net6.0\refint\Variables.dll
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\obj\Debug\net6.0\Variables.pdb
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+D:\ProgrammingLanguagues\CSharp\00_Intro\Variables\obj\Debug\net6.0\ref\Variables.dll

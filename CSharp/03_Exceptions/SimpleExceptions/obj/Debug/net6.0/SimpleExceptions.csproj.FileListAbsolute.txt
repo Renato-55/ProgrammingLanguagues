@@ -1,0 +1,15 @@
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\bin\Debug\net6.0\SimpleExceptions.exe
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\bin\Debug\net6.0\SimpleExceptions.deps.json
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\bin\Debug\net6.0\SimpleExceptions.runtimeconfig.json
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\bin\Debug\net6.0\SimpleExceptions.dll
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\bin\Debug\net6.0\SimpleExceptions.pdb
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\obj\Debug\net6.0\SimpleExceptions.csproj.AssemblyReference.cache
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\obj\Debug\net6.0\SimpleExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\obj\Debug\net6.0\SimpleExceptions.AssemblyInfoInputs.cache
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\obj\Debug\net6.0\SimpleExceptions.AssemblyInfo.cs
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\obj\Debug\net6.0\SimpleExceptions.csproj.CoreCompileInputs.cache
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\obj\Debug\net6.0\SimpleExceptions.dll
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\obj\Debug\net6.0\refint\SimpleExceptions.dll
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\obj\Debug\net6.0\SimpleExceptions.pdb
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\obj\Debug\net6.0\SimpleExceptions.genruntimeconfig.cache
+D:\ProgrammingLanguagues\CSharp\03_Exceptions\SimpleExceptions\obj\Debug\net6.0\ref\SimpleExceptions.dll

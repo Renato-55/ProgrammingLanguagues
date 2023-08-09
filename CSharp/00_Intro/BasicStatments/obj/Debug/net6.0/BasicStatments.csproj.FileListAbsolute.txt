@@ -1,0 +1,15 @@
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\bin\Debug\net6.0\BasicStatments.exe
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\bin\Debug\net6.0\BasicStatments.deps.json
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\bin\Debug\net6.0\BasicStatments.runtimeconfig.json
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\bin\Debug\net6.0\BasicStatments.dll
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\bin\Debug\net6.0\BasicStatments.pdb
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\obj\Debug\net6.0\BasicStatments.csproj.AssemblyReference.cache
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\obj\Debug\net6.0\BasicStatments.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\obj\Debug\net6.0\BasicStatments.AssemblyInfoInputs.cache
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\obj\Debug\net6.0\BasicStatments.AssemblyInfo.cs
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\obj\Debug\net6.0\BasicStatments.csproj.CoreCompileInputs.cache
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\obj\Debug\net6.0\BasicStatments.dll
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\obj\Debug\net6.0\refint\BasicStatments.dll
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\obj\Debug\net6.0\BasicStatments.pdb
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\obj\Debug\net6.0\BasicStatments.genruntimeconfig.cache
+D:\ProgrammingLanguagues\CSharp\00_Intro\BasicStatments\obj\Debug\net6.0\ref\BasicStatments.dll

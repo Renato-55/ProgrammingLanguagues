@@ -1,0 +1,15 @@
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\obj\Debug\net6.0\SimpleFile.csproj.AssemblyReference.cache
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\obj\Debug\net6.0\SimpleFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\obj\Debug\net6.0\SimpleFile.AssemblyInfoInputs.cache
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\obj\Debug\net6.0\SimpleFile.AssemblyInfo.cs
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\obj\Debug\net6.0\SimpleFile.csproj.CoreCompileInputs.cache
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\bin\Debug\net6.0\SimpleFile.exe
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\bin\Debug\net6.0\SimpleFile.deps.json
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\bin\Debug\net6.0\SimpleFile.runtimeconfig.json
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\bin\Debug\net6.0\SimpleFile.dll
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\bin\Debug\net6.0\SimpleFile.pdb
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\obj\Debug\net6.0\SimpleFile.dll
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\obj\Debug\net6.0\refint\SimpleFile.dll
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\obj\Debug\net6.0\SimpleFile.pdb
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\obj\Debug\net6.0\SimpleFile.genruntimeconfig.cache
+D:\ProgrammingLanguagues\CSharp\02_Files\SimpleFile\obj\Debug\net6.0\ref\SimpleFile.dll
