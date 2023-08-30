@@ -5,27 +5,27 @@ Welcome to my Programming Languages portfolio! This repository is a compilation 
 ## Table of Contents 📚
 
 1. [Introduction](#introduction)
-   - [Basic Statements](/ProgrammingLanguages/CSharp/00_Intro/BasicStatements)
-   - [Hello World](/ProgrammingLanguages/CSharp/00_Intro/HelloWorld)
-   - [Methods](/ProgrammingLanguages/CSharp/00_Intro/Methods)
-   - [Strings](/ProgrammingLanguages/CSharp/00_Intro/String)
-   - [Variables](/ProgrammingLanguages/CSharp/00_Intro/Variables)
+   - [Basic Statements](/CSharp/00_Intro/BasicStatements)
+   - [Hello World](/CSharp/00_Intro/HelloWorld)
+   - [Methods](/CSharp/00_Intro/Methods)
+   - [Strings](/CSharp/00_Intro/String)
+   - [Variables](/CSharp/00_Intro/Variables)
 
 2. [Classes](#classes)
-   - [Simple Class](/ProgrammingLanguages/CSharp/01_Classes/SimpleClass)
-   - [Other Classes](/ProgrammingLanguages/CSharp/01_Classes/OtherClasses)
+   - [Simple Class](/CSharp/01_Classes/SimpleClass)
+   - [Other Classes](/CSharp/01_Classes/OtherClasses)
 
 3. [Files](#files)
-   - [Simple File](/ProgrammingLanguages/CSharp/02_Files/SimpleFile)
+   - [Simple File](/CSharp/02_Files/SimpleFile)
 
 4. [Exceptions](#exceptions)
-   - [Simple Exceptions](/ProgrammingLanguages/CSharp/03_Exceptions/SimpleExceptions)
+   - [Simple Exceptions](//CSharp/03_Exceptions/SimpleExceptions)
 
 5. [Design Patterns](#design-patterns)
-   - [Creational](/ProgrammingLanguages/CSharp/04_DesignPatterns/Creational)
-      - [Builder](/ProgrammingLanguages/CSharp/04_DesignPatterns/Creational/Builder)
-      - [Factory](/ProgrammingLanguages/CSharp/04_DesignPatterns/Creational/Factory)
-   - [Behavioral](/ProgrammingLanguages/CSharp/04_DesignPatterns/Behavioral)
+   - [Creational](/CSharp/04_DesignPatterns/Creational)
+      - [Builder](/CSharp/04_DesignPatterns/Creational/Builder)
+      - [Factory](/CSharp/04_DesignPatterns/Creational/Factory)
+   - [Behavioral](/CSharp/04_DesignPatterns/Behavioral)
 
 ## Introduction 🌟
 
