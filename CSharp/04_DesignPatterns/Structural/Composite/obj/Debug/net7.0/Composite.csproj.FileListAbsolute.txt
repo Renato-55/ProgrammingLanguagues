@@ -1,0 +1,14 @@
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\bin\Debug\net7.0\Composite.exe
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\bin\Debug\net7.0\Composite.deps.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\bin\Debug\net7.0\Composite.runtimeconfig.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\bin\Debug\net7.0\Composite.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\bin\Debug\net7.0\Composite.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\obj\Debug\net7.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\obj\Debug\net7.0\Composite.AssemblyInfoInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\obj\Debug\net7.0\Composite.AssemblyInfo.cs
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\obj\Debug\net7.0\Composite.csproj.CoreCompileInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\obj\Debug\net7.0\Composite.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\obj\Debug\net7.0\refint\Composite.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\obj\Debug\net7.0\Composite.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\obj\Debug\net7.0\Composite.genruntimeconfig.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Composite\obj\Debug\net7.0\ref\Composite.dll
