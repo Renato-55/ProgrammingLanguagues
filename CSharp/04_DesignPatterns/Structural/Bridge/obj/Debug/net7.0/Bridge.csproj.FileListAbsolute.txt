@@ -1,0 +1,14 @@
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\bin\Debug\net7.0\Bridge.exe
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\bin\Debug\net7.0\Bridge.deps.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\bin\Debug\net7.0\Bridge.runtimeconfig.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\bin\Debug\net7.0\Bridge.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\bin\Debug\net7.0\Bridge.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\obj\Debug\net7.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfoInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfo.cs
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\obj\Debug\net7.0\Bridge.csproj.CoreCompileInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\obj\Debug\net7.0\Bridge.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\obj\Debug\net7.0\refint\Bridge.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\obj\Debug\net7.0\Bridge.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\obj\Debug\net7.0\Bridge.genruntimeconfig.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Bridge\obj\Debug\net7.0\ref\Bridge.dll
