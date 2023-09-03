@@ -1,0 +1,14 @@
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\bin\Debug\net7.0\Proxy.exe
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\bin\Debug\net7.0\Proxy.deps.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\bin\Debug\net7.0\Proxy.runtimeconfig.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\bin\Debug\net7.0\Proxy.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\bin\Debug\net7.0\Proxy.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\obj\Debug\net7.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\obj\Debug\net7.0\Proxy.AssemblyInfoInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\obj\Debug\net7.0\Proxy.AssemblyInfo.cs
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\obj\Debug\net7.0\Proxy.csproj.CoreCompileInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\obj\Debug\net7.0\Proxy.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\obj\Debug\net7.0\refint\Proxy.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\obj\Debug\net7.0\Proxy.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\obj\Debug\net7.0\Proxy.genruntimeconfig.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Structural\Proxy\obj\Debug\net7.0\ref\Proxy.dll
