@@ -1,0 +1,14 @@
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\bin\Debug\net7.0\Mediator.exe
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\bin\Debug\net7.0\Mediator.deps.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\bin\Debug\net7.0\Mediator.runtimeconfig.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\bin\Debug\net7.0\Mediator.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\bin\Debug\net7.0\Mediator.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\obj\Debug\net7.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfoInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfo.cs
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\obj\Debug\net7.0\Mediator.csproj.CoreCompileInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\obj\Debug\net7.0\Mediator.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\obj\Debug\net7.0\refint\Mediator.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\obj\Debug\net7.0\Mediator.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\obj\Debug\net7.0\Mediator.genruntimeconfig.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Mediator\obj\Debug\net7.0\ref\Mediator.dll
