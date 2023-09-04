@@ -1,0 +1,14 @@
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\bin\Debug\net7.0\Iterator.exe
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\bin\Debug\net7.0\Iterator.deps.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\bin\Debug\net7.0\Iterator.runtimeconfig.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\bin\Debug\net7.0\Iterator.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\bin\Debug\net7.0\Iterator.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\obj\Debug\net7.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\obj\Debug\net7.0\Iterator.AssemblyInfoInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\obj\Debug\net7.0\Iterator.AssemblyInfo.cs
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\obj\Debug\net7.0\Iterator.csproj.CoreCompileInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\obj\Debug\net7.0\Iterator.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\obj\Debug\net7.0\refint\Iterator.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\obj\Debug\net7.0\Iterator.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\obj\Debug\net7.0\Iterator.genruntimeconfig.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\Iterator\obj\Debug\net7.0\ref\Iterator.dll
