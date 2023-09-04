@@ -1,0 +1,14 @@
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\bin\Debug\net7.0\State.exe
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\bin\Debug\net7.0\State.deps.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\bin\Debug\net7.0\State.runtimeconfig.json
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\bin\Debug\net7.0\State.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\bin\Debug\net7.0\State.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\obj\Debug\net7.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\obj\Debug\net7.0\State.AssemblyInfoInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\obj\Debug\net7.0\State.AssemblyInfo.cs
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\obj\Debug\net7.0\State.csproj.CoreCompileInputs.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\obj\Debug\net7.0\State.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\obj\Debug\net7.0\refint\State.dll
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\obj\Debug\net7.0\State.pdb
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\obj\Debug\net7.0\State.genruntimeconfig.cache
+D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\04_DesignPatterns\Behavioral\State\obj\Debug\net7.0\ref\State.dll
