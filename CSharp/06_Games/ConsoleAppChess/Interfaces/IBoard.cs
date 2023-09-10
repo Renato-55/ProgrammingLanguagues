@@ -8,8 +8,9 @@ namespace ConsoleAppChess.Interfaces
 {
     internal interface IBoard
     {
-        void resetBoard();
-        void print();
-        void makeMove();
+        void ResetBoard();
+        void Print();
+        void MakeMove();
+        void Load();
     }
 }

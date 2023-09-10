@@ -21,18 +21,18 @@ namespace ConsoleAppChess.Classes
             this.charPosition = 'a';
             this.setPositionStr();
         }
-
-        private void setPositionStr()
-        {
-            this.PositionStr = this.charPosition.ToString() + this.intPostion.ToString();
-        }
-
         public Position (int intPos, char charPos)
         {
             this.intPostion = intPos;
             this.charPosition = charPos;
             this.setPositionStr();
         }
+
+        private void setPositionStr()
+        {
+            this.PositionStr = this.charPosition.ToString() + this.intPostion.ToString();
+        }
+
         public int charToInt(char c)
         {
             return c - 'a' + 1;

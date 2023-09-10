@@ -14,13 +14,10 @@ namespace ConsoleChess
             /* Initial Board */ 
             Player whitePieces = new Player() { NickName = "Renato" };
             Player blackPieces = new Player() { NickName = "Mariana" };
-            Board board = new Board(whitePieces, blackPieces);
+            Game game = new Game(whitePieces, blackPieces);
 
             /* Priting The initial Board state */
-            board.print();
-            board.makeMove();
-            board.print();
-            board.resetBoard();
+            game.StartGame();
 
             /*  */
             Console.ReadLine();

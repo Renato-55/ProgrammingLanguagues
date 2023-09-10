@@ -8,8 +8,8 @@ namespace ConsoleAppChess.Interfaces
 {
     internal interface IGame
     {
-        void resetGame();
-        void startGame();
+        void ResetGame();
+        void StartGame();
 
     }
 }

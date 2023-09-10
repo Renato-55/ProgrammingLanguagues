@@ -1,4 +1,6 @@
 ﻿using ConsoleAppChess.Interfaces;
+using ConsoleAppChess.Util;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +12,8 @@ namespace ConsoleAppChess.Classes
     internal class Game : IGame
     {
         Board board;
+        private readonly ILogger _logger;
+
         public Game() 
         {
             this.board = new Board();
@@ -20,14 +24,18 @@ namespace ConsoleAppChess.Classes
             this.board = new Board(whitePieces, blackPieces);
         }
 
-        public void resetGame()
+        public void ResetGame()
         {
-            Console.WriteLine("\nReseting the game");
+            Logger.GetLogger().Debug("[!] Reseting the board state");
+            this.board.ResetBoard();
         }
 
-        public void startGame()
+        public void StartGame()
         {
             Console.WriteLine("\nStarting the game");
+            this.board.Print();
+            this.ResetGame();
+            this.board.Print();
         }
     }
 }
