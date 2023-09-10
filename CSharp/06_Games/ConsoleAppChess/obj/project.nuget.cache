@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "PlgHTGDp/jrr7EUe3oR05WbC0F4/r6tC/5EjIYgcgWUuSu+CjbCwsLqQD6A+MyfNRyv+6HujoP9pNW2sUQDvVw==",
+  "success": true,
+  "projectFilePath": "D:\\HomeProjects\\GitRepos\\ProgrammingLanguagues\\CSharp\\06_Games\\ConsoleAppChess\\ConsoleAppChess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\serilog.extensions.logging\\7.0.0\\serilog.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
