@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleAppChess.Classes
+namespace ConsoleAppChess.Classes.Chess
 {
     internal class Rook : Piece
     {

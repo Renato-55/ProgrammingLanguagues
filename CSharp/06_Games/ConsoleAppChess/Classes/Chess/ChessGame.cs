@@ -7,35 +7,40 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleAppChess.Classes
+namespace ConsoleAppChess.Classes.Chess
 {
-    internal class Game : IGame
+    internal class ChessGame : IGame
     {
         Board board;
         private readonly ILogger _logger;
 
-        public Game() 
+        public ChessGame()
         {
-            this.board = new Board();
+            board = new Board();
         }
 
-        public Game(Player whitePieces, Player blackPieces)
+        public ChessGame(Player whitePieces, Player blackPieces)
         {
-            this.board = new Board(whitePieces, blackPieces);
+            board = new Board(whitePieces, blackPieces);
         }
 
         public void ResetGame()
         {
             Logger.GetLogger().Debug("[!] Reseting the board state");
-            this.board.ResetBoard();
+            board.ResetBoard();
         }
 
         public void StartGame()
         {
             Console.WriteLine("\nStarting the game");
-            this.board.Print();
-            this.ResetGame();
-            this.board.Print();
+            board.Print();
+            ResetGame();
+            board.Print();
+        }
+
+        public string GetGameName()
+        {
+            return "Chess";
         }
     }
 }

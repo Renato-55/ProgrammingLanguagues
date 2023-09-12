@@ -7,9 +7,9 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleAppChess.Classes
+namespace ConsoleAppChess.Classes.Chess
 {
-    internal abstract class Piece
+    public abstract class Piece
     {
         public string PieceName { get; set; }
         public string PieceShortName { get; set; }
@@ -17,7 +17,7 @@ namespace ConsoleAppChess.Classes
         public Color color { get; set; }
         public Position PiecePosition { get; set; }
         public Piece() { }
-        public Piece(string PieceName, string PieceShortName, int PieceValue, Color Color, int intPos, char charPos) : this (PieceName, PieceShortName, PieceValue, Color, new Position(intPos, charPos)) { }
+        public Piece(string PieceName, string PieceShortName, int PieceValue, Color Color, int intPos, char charPos) : this(PieceName, PieceShortName, PieceValue, Color, new Position(intPos, charPos)) { }
         public Piece(string PieceName, string PieceShortName, int PieceValue, Color Color, Position PiecePosition)
         {
             this.PieceName = PieceName;
@@ -34,12 +34,12 @@ namespace ConsoleAppChess.Classes
 
         public int getPieceValue()
         {
-            return this.PieceValue;
+            return PieceValue;
         }
 
         public string getPieceName()
         {
-            return this.PieceName;
+            return PieceName;
         }
     }
 }

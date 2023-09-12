@@ -1,4 +1,4 @@
-﻿using ConsoleAppChess.Classes;
+﻿using ConsoleAppChess.Classes.Chess;
 using System;
 using System.Collections.Generic;
 using System.Linq;

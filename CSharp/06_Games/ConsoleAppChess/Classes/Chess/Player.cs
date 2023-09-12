@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleAppChess.Classes
+namespace ConsoleAppChess.Classes.Chess
 {
     internal class Player : IPlayer
     {
@@ -16,35 +16,35 @@ namespace ConsoleAppChess.Classes
         public Player() { }
         public string getNickName()
         {
-            return this.NickName;
+            return NickName;
         }
 
         public void setNickName(string _nickName)
         {
-            this.NickName = _nickName;
+            NickName = _nickName;
         }
 
         public void setRating(int _rating)
         {
             if (_rating > 0)
             {
-                this.Rating = _rating;
+                Rating = _rating;
             }
         }
 
         public int getRating()
         {
-            return this.Rating != null ? (int)this.Rating : 0;
+            return Rating != null ? (int)Rating : 0;
         }
 
         public void setTitle(string _title)
         {
-            this.Title = _title;
+            Title = _title;
         }
 
         public string getTitle()
         {
-            return this.Title != null ? this.Title : string.Empty;
+            return Title != null ? Title : string.Empty;
         }
     }
 }

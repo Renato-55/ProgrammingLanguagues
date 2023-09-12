@@ -10,6 +10,6 @@ namespace ConsoleAppChess.Interfaces
     {
         void ResetGame();
         void StartGame();
-
+        string GetGameName();
     }
 }

@@ -1,0 +1,18 @@
+{
+  "name": "foo-ip",
+  "version": "0.0.1",
+  "scripts": {
+    "foo": "ts-node-esm index.ts",
+    "startDemoIp": "ts-node-esm demo-ip.ts"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "chalk": "^4.1.2",
+    "colorts": "^0.1.63",
+    "ts-node": "^3.2.0",
+    "typescript": "^2.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.7"
+  }
+}
