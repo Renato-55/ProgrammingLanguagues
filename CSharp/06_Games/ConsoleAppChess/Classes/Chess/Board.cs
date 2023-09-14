@@ -4,10 +4,10 @@ using ConsoleAppChess.Interfaces;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
-using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ConsoleAppChess.Enum.Chess;
 
 namespace ConsoleAppChess.Classes.Chess
 {
@@ -19,7 +19,7 @@ namespace ConsoleAppChess.Classes.Chess
         public List<Piece> blackPieces;
         public List<Piece> whitePieces;
         public Piece[,] board;
-
+        public bool isWhiteMove;
         private readonly ILogger _logger;
 
         public Board() : this(new Player(), new Player()) { }
@@ -31,9 +31,55 @@ namespace ConsoleAppChess.Classes.Chess
             Load();
         }
 
-        public void MakeMove()
+        public bool MakeMove()
         {
-            Console.WriteLine("\nMaking a move");
+            Piece piece = null;
+
+            Console.WriteLine("Select a Piece to move");
+            Console.ResetColor(); // Reset text color
+            Console.ResetColor(); // Reset text color
+
+            string pieceToMove = Console.ReadLine();
+
+            Position newPosition = Position.ReadPosition();
+
+            if (isWhiteMove)
+            {
+                piece = whitePieces.FirstOrDefault(piece => piece.PieceShortName == pieceToMove);
+            }
+            else
+            {
+                piece = blackPieces.FirstOrDefault(piece => piece.PieceShortName == pieceToMove);
+            }
+
+            try
+            {
+                this.MovePiece(piece, newPosition);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+        public void MovePiece(Piece piece, Position newPosition)
+        {
+            board
+            [
+                piece.PiecePosition.intPostion - 1,
+                piece.PiecePosition.charToInt(piece.PiecePosition.charPosition) - 1
+            ] = null;
+
+            piece.MovePiece(newPosition);
+
+            board
+                [
+                    piece.PiecePosition.intPostion - 1,
+                    piece.PiecePosition.charToInt(piece.PiecePosition.charPosition) - 1
+                ] = piece;
+
+            isWhiteMove = !isWhiteMove;
         }
 
         public void Print()
@@ -74,6 +120,7 @@ namespace ConsoleAppChess.Classes.Chess
             blackPieces = new List<Piece>();
             whitePieces = new List<Piece>();
             board = new Piece[boardSize, boardSize];
+            isWhiteMove = true;
         }
         public void Load()
         {
@@ -81,10 +128,10 @@ namespace ConsoleAppChess.Classes.Chess
             #region Loading Pawns
             for (int i = 0; i < 8; i++)
             {
-                Piece wPawn = PieceFactory.CreatePiece(PieceType.Pawn, "WPawn-" + i, "WP-" + i, 1, Color.White, new Position(2, (char)('a' + i)));
-                AddPieceToBoard(wPawn);
+                Piece wPawn = PieceFactory.CreatePiece(PieceType.Pawn, "WPawn-" + i, "WP-" + i, 1, Enum.Chess.Color.White, new Position(2, (char)('a' + i)));
+                AddPieceToBoard(wPawn); 
 
-                Piece bPawn = PieceFactory.CreatePiece(PieceType.Pawn, "Pawn-" + i, "BP-" + i, 1, Color.Black, new Position(7, (char)('a' + i)));
+                Piece bPawn = PieceFactory.CreatePiece(PieceType.Pawn, "Pawn-" + i, "BP-" + i, 1, Enum.Chess.Color.Black, new Position(7, (char)('a' + i)));
                 AddPieceToBoard(bPawn);
             }
             #endregion
@@ -137,7 +184,7 @@ namespace ConsoleAppChess.Classes.Chess
         }
         public void AddPieceToBoard(Piece piece)
         {
-            if (piece.color == Color.White)
+            if (piece.color == Enum.Chess.Color.White)
             {
                 whitePieces.Add(piece);
             }

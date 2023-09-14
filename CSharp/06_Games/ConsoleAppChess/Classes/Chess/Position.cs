@@ -27,6 +27,19 @@ namespace ConsoleAppChess.Classes.Chess
             charPosition = charPos;
             setPositionStr();
         }
+        public static Position ReadPosition()
+        {
+            Console.ForegroundColor = ConsoleColor.Green; // Set text color to green
+            Console.WriteLine("Select a Move position (char)");
+            string charPos = Console.ReadLine();
+            
+            Console.WriteLine("Select a Move position (int)");
+            string intPos = Console.ReadLine();
+            Console.ResetColor(); // Reset text color
+
+            charPos = charPos.ToUpper() == charPos ? charPos.ToLower() : charPos;
+            return new Position(Convert.ToInt32(intPos), Char.Parse(charPos));
+        }
 
         private void setPositionStr()
         {

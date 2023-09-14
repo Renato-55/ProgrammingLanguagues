@@ -10,7 +10,7 @@ namespace ConsoleAppChess.Interfaces
     {
         void ResetBoard();
         void Print();
-        void MakeMove();
+        bool MakeMove();
         void Load();
     }
 }
