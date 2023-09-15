@@ -13,7 +13,7 @@ namespace ConsoleAppChess.Factory.Chess
 {
     public sealed class PieceFactory
     {
-        public static Piece CreatePiece(PieceType pieceType, string PieceName, string PieceShortName, int PieceValue, Color Color, int intPos, char charPos)
+        public static Piece CreatePiece(PieceType pieceType, string PieceName, string PieceShortName, int PieceValue, Enum.Chess.Color Color, int intPos, char charPos)
         {
             Piece piece = null;
 
@@ -44,7 +44,7 @@ namespace ConsoleAppChess.Factory.Chess
             return piece;
         }
 
-        public static Piece CreatePiece(PieceType pieceType, string PieceName, string PieceShortName, int PieceValue, Color Color, Position position)
+        public static Piece CreatePiece(PieceType pieceType, string PieceName, string PieceShortName, int PieceValue, Enum.Chess.Color Color, Position position)
         {
             Piece piece = null;
 

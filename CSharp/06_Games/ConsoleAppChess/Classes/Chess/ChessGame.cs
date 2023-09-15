@@ -34,8 +34,13 @@ namespace ConsoleAppChess.Classes.Chess
         {
             Console.WriteLine("\nStarting the game");
             board.Print();
-            ResetGame();
-            board.Print();
+
+            while (1 == 1)
+            {
+                board.MakeMove();
+                board.Print();
+            }
+
         }
 
         public string GetGameName()

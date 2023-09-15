@@ -1,5 +1,6 @@
 ﻿using ConsoleAppChess.Classes.Chess;
 using ConsoleAppChess.Enum;
+using ConsoleAppChess.Factory.Games;
 using ConsoleAppChess.Interfaces;
 using ConsoleAppChess.Util;
 using Serilog;
@@ -57,23 +58,7 @@ namespace ConsoleAppChess.Classes
         private IGame LoadGame(GameName gameName)
         {
             // Create factory for games later
-            switch(gameName)
-            {
-                case GameName.Chess:
-                    /* Initial Board */
-                    Player whitePieces = new Player() { NickName = "Renato" };
-                    Player blackPieces = new Player() { NickName = "Mariana" };
-                    ChessGame game = new ChessGame(whitePieces, blackPieces);
-                    return game;
-
-                /***
-                 * Define other games here
-                 * 
-                 */
-
-                default:
-                    return null;
-            }
+            return GamesFactory.CreateGame(gameName);
         }
     
         private void StartGame(IGame game)
