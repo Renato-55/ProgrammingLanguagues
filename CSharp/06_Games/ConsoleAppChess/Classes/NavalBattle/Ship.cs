@@ -1,28 +1,46 @@
+using ConsoleAppChess.Classes.Chess;
+
 namespace ConsoleAppChess.Classes.NavalBattle
 {
     public abstract class Ship
     {
-        private string Name { get; set; }
-        private int Size { get; set; }
-        private string Position { get; set; }
-        private string Orientation { get; set; }
-        private int Hits { get; set; }
-        private bool IsSunk { get; set; }
+        private string Name;
+        private int Size;
+        private NavalBattlePosition position;
+        private bool isSunk;
+        private int hits;
 
-        public Ship(int size, string position, string orientation)
+        public Ship()
         {
-            this.Size = size;
-            this.Position = position;
-            this.Orientation = orientation;
-            this.Hits = 0;
-            this.IsSunk = false;
+            Name="Ship";
+            Size=0;
+            position = new NavalBattlePosition();
+            isSunk=false;
+            hits=0;
         }
 
-        public abstract void Position();
+        public Ship(string name, int size, NavalBattlePosition position)
+        {
+            Name=name;
+            Size=size;
+            this.position = position;
+            isSunk=false;
+            hits=0;
+        }
 
-        public abstract void Hit();
+        public void Hit()
+        {
+            hits++;
+            if(hits==Size)
+            {
+                isSunk=true;
+            }
+        }
 
+        public bool IsSunk()
+        {
+            return isSunk;
+        }
 
     }
 }
-```
