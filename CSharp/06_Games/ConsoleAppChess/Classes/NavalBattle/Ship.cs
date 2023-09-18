@@ -9,6 +9,7 @@ namespace ConsoleAppChess.Classes.NavalBattle
         private NavalBattlePosition position;
         private bool isSunk;
         private int hits;
+        
 
         public Ship()
         {
