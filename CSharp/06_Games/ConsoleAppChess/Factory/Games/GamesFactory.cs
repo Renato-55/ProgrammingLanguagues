@@ -20,10 +20,8 @@ namespace ConsoleAppChess.Factory.Games
 
                     return ChessGameFactory.CreateGame();
 
-                /***
-                 * Define other games here
-                 * 
-                 */
+                case GameName.Battleship:
+                    return NavalBattleFactory.CreateGame();
 
                 default:
                     return null;

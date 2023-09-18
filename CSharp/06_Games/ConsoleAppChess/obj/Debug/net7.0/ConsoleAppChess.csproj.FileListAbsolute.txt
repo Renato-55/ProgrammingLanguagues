@@ -18,8 +18,36 @@ D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\o
 D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.AssemblyInfo.cs
 D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.csproj.CoreCompileInputs.cache
 D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.csproj.CopyComplete
+<<<<<<< HEAD
 D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.dll
 D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\refint\ConsoleAppChess.dll
 D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.pdb
 D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.genruntimeconfig.cache
 D:\HomeProjects\GitRepos\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ref\ConsoleAppChess.dll
+=======
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.csproj.AssemblyReference.cache
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.AssemblyInfoInputs.cache
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.AssemblyInfo.cs
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\refint\ConsoleAppChess.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.pdb
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\ConsoleAppChess.exe
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\ConsoleAppChess.deps.json
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\ConsoleAppChess.runtimeconfig.json
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\ConsoleAppChess.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\ConsoleAppChess.pdb
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\Serilog.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.csproj.CopyComplete
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ConsoleAppChess.genruntimeconfig.cache
+C:\Users\Maria\OneDrive\Ambiente de Trabalho\ProgrammingLanguagues\CSharp\06_Games\ConsoleAppChess\obj\Debug\net7.0\ref\ConsoleAppChess.dll
+>>>>>>> 75d7c541b4afe9e3fa15dfae600588100a2450f8
