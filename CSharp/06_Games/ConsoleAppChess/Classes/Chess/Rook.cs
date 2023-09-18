@@ -17,14 +17,14 @@ namespace ConsoleAppChess.Classes.Chess
             Console.WriteLine("\nRook capture");
         }
 
-        public override void PossibleMoves()
-        {
-            Console.WriteLine("\nPossible Moves");
-        }
-
-        public override bool isMovePossible(Position position)
+        public override bool isMovePossible(Position position, ChessBoard board)
         {
             return true;
+        }
+
+        public override List<Position> PossibleMoves(ChessBoard board)
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -11,17 +11,17 @@ namespace ConsoleAppChess.Classes.Chess
 {
     internal class ChessGame : IGame
     {
-        Board board;
+        ChessBoard board;
         private readonly ILogger _logger;
 
         public ChessGame()
         {
-            board = new Board();
+            board = new ChessBoard();
         }
 
         public ChessGame(Player whitePieces, Player blackPieces)
         {
-            board = new Board(whitePieces, blackPieces);
+            board = new ChessBoard(whitePieces, blackPieces);
         }
 
         public void ResetGame()

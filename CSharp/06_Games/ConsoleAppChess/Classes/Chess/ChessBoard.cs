@@ -11,7 +11,7 @@ using ConsoleAppChess.Enum.Chess;
 
 namespace ConsoleAppChess.Classes.Chess
 {
-    internal class Board : IBoard
+    public class ChessBoard : IBoard
     {
         private const int boardSize = 8;
         public Player _whitePlayer;
@@ -22,13 +22,27 @@ namespace ConsoleAppChess.Classes.Chess
         public bool isWhiteMove;
         private readonly ILogger _logger;
 
-        public Board() : this(new Player(), new Player()) { }
-        public Board(Player whitePlayer, Player blackPlayer)
+        public ChessBoard() : this(new Player(), new Player()) { }
+        public ChessBoard(Player whitePlayer, Player blackPlayer)
         {
             _whitePlayer = whitePlayer;
             _blackPlayer = blackPlayer;
             ResetBoard();
             Load();
+        }
+        public Piece PieceAt(Position position)
+        {
+            if (position == null)
+            {
+                return null;
+            }
+
+            if (position.intPostion >= 8 || position.charToInt(position.charPosition) >= 8)
+            {
+                return null;
+            }
+            Piece piece = this.board[position.intPostion - 1, position.charToInt(position.charPosition) - 1];
+            return piece;
         }
 
         public bool MakeMove()
@@ -36,7 +50,6 @@ namespace ConsoleAppChess.Classes.Chess
             Piece piece = null;
 
             Console.WriteLine("Select a Piece to move");
-            Console.ResetColor(); // Reset text color
             Console.ResetColor(); // Reset text color
 
             string pieceToMove = Console.ReadLine();
@@ -52,26 +65,28 @@ namespace ConsoleAppChess.Classes.Chess
                 piece = blackPieces.FirstOrDefault(piece => piece.PieceShortName == pieceToMove);
             }
 
-            try
-            {
-                this.MovePiece(piece, newPosition);
-                return true;
-            }
-            catch
-            {
-                return false;
-            }
+            return this.MovePiece(piece, newPosition);
+
         }
 
-        public void MovePiece(Piece piece, Position newPosition)
+        public bool MovePiece(Piece piece, Position newPosition)
         {
+            Position oldPosition = new Position(piece.PiecePosition.intPostion, piece.PiecePosition.charPosition);
+            bool isMoveEnabled = piece.Move(newPosition, this);
+
+            // If the move is not possible just return
+            if (!isMoveEnabled)
+            {
+                return false;
+
+            }
+
             board
             [
-                piece.PiecePosition.intPostion - 1,
-                piece.PiecePosition.charToInt(piece.PiecePosition.charPosition) - 1
+                oldPosition.intPostion - 1,
+                oldPosition.charToInt(piece.PiecePosition.charPosition) - 1
             ] = null;
 
-            piece.MovePiece(newPosition);
 
             board
                 [
@@ -80,15 +95,21 @@ namespace ConsoleAppChess.Classes.Chess
                 ] = piece;
 
             isWhiteMove = !isWhiteMove;
+            return true;
         }
 
         public void Print()
         {
             Util.Logger.GetLogger().Debug("[!] Printed the board state");
-            Console.WriteLine("\nPrinting Current Board");
 
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Green; // Set text color to green
+            string playerToMove = isWhiteMove ? "White Player [" + _whitePlayer.NickName + "]": "Black Player [" + _blackPlayer.NickName + "]";
+            Console.WriteLine("{0} is Playing", playerToMove);
             Console.WriteLine("----------------------------------------------------------");
             Console.WriteLine("       A      B      C      D      E      F      G      H\n");
+            Console.ResetColor();
+
             for (int i = 7; i >= 0; i--)
             {
                 Console.Write(string.Format((i + 1).ToString()).PadRight(6));
@@ -110,10 +131,11 @@ namespace ConsoleAppChess.Classes.Chess
                 }
                 Console.WriteLine("\n");
             }
+
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("       A      B      C      D      E      F      G      H\n");
             Console.WriteLine("----------------------------------------------------------");
-
-
+            Console.ResetColor();
         }
         public void ResetBoard()
         {

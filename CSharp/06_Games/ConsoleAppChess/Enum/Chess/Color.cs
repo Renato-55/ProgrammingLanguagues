@@ -9,6 +9,7 @@ namespace ConsoleAppChess.Enum.Chess
     public enum Color
     {
         White = 0,
-        Black = 1
+        Black = 1,
+        Unknowed = 99
     }
 }

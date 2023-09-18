@@ -29,16 +29,16 @@ namespace ConsoleAppChess.Classes.Chess
 
         public abstract void Capture();
 
-        public void Move(Position position)
+        public bool Move(Position position, ChessBoard board)
         {
-            if (isMovePossible(position)) 
+            if (isMovePossible(position, board)) 
             { 
-                MovePiece(position); 
+                MovePiece(position);
+                /* Check win conditions */
+                return true;
             }
-            else
-            {
-                throw new Exception("Move is not possible");
-            }
+
+            return false;
         }
 
         public void MovePiece(Position position)
@@ -48,9 +48,9 @@ namespace ConsoleAppChess.Classes.Chess
             // Move piece to position
             this.PiecePosition = position;
         }
-        public abstract bool isMovePossible(Position position);
+        public abstract bool isMovePossible(Position position, ChessBoard board);
 
-        public abstract void PossibleMoves();
+        public abstract List<Position> PossibleMoves(ChessBoard board);
 
         public int getPieceValue()
         {

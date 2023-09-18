@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppChess.Classes.Chess
 {
-    internal class Player : IPlayer
+    public class Player : IPlayer
     {
         public string NickName { get; set; }
         public int? Rating { get; set; }

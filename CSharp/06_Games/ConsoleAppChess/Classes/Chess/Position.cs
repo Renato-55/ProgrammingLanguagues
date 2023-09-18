@@ -1,7 +1,9 @@
-﻿using ConsoleAppChess.Interfaces;
+﻿using ConsoleAppChess.Enum.Chess;
+using ConsoleAppChess.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
@@ -77,6 +79,47 @@ namespace ConsoleAppChess.Classes.Chess
             outputStr += string.Format("\nPos: {0}", PositionStr);
 
             return outputStr;
+        }
+    
+        public static Position PositionAhead(Position position, Color color, int step = 1)
+        {
+            Position tempPos = new Position();
+            tempPos = position;
+
+            if (color == Color.White)
+            {
+                tempPos.intPostion += step;
+            } else
+            {
+                tempPos.intPostion -= step;
+            }
+            return tempPos;
+        }
+
+        public static Position PositionDiag(Position position, Color color, bool rightDiag = false, bool backDiag = false, int step = 1)
+        {
+            int mul = Color.White == color ? 1 : -1;
+
+            if (rightDiag)
+            {
+                position.charPosition = position.intToChar(position.charToInt(position.charPosition) + (mul * step)); 
+            }
+            else
+            {
+                position.charPosition = position.intToChar(position.charToInt(position.charPosition) + (mul * step * -1));
+            }
+            position.intPostion += mul * step;
+            return position;
+        }
+
+        public static bool isEqual(Position pos1, Position pos2)
+        {
+            return (pos1.charPosition == pos2.charPosition && pos1.intPostion == pos2.intPostion);
+        }
+
+        public bool isEqual(Position pos)
+        {
+            return (this.charPosition == pos.charPosition && this.intPostion == pos.intPostion);
         }
     }
 }

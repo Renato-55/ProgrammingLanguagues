@@ -10,10 +10,5 @@ namespace ConsoleAppChess.Interfaces
     {
         void setNickName(string _nickName);
         string getNickName();
-
-        void setRating(int _rating);
-        int getRating();
-        void setTitle(string _title);
-        string getTitle();
     }
 }
