@@ -1,9 +1,11 @@
-<h2 [ngStyle]="{'font-size': size + 'px', 'font-family': font, 'color':color}">Testing styles</h2>
+<div class="class">
+  <h2
+    [ngStyle]="{ 'font-size': size + 'px', 'font-family': font, color: color }"
+  >
+    Testing styles
+  </h2>
 
-<h2 [ngClass]="classes">
-    Testing styles on classes
-</h2>
+  <h2 [ngClass]="classes">Testing styles on classes</h2>
 
-<h2 [ngClass]="underline">
-    Testing styles on classes underline
-</h2>
+  <h2 [ngClass]="underline">Testing styles on classes underline</h2>
+</div>

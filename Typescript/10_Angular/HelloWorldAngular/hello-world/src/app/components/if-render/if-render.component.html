@@ -1,0 +1,10 @@
+<div class="class">
+    <h2>if-render</h2>
+    <div *ngIf="canShow">
+        <p>Showing this</p>
+    </div>
+    <h1 *ngIf="name === 'Renato'; else nameNotFound">Showing this if name === Renato</h1>
+    <ng-template #nameNotFound>
+        <h1>Showing this if name !== Renato</h1>
+    </ng-template>
+</div>
