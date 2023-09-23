@@ -8,25 +8,32 @@ import { ListService } from 'src/app/service/list.service';
   styleUrls: ['./list-render.component.scss'],
 })
 export class ListRenderComponent {
-  animals: Animal[] = [
-    {
-      name: 'Bobbie',
-      type: 'Dog',
-      age: 3,
-    },
-    {
-      name: 'Mittens',
-      type: 'Cat',
-      age: 2,
-    },
-    {
-      name: 'Polly',
-      type: 'Parrot',
-      age: 4,
-    },
-  ];
+  // animals: Animal[] = [
+  //   {
+  //     name: 'Bobbie',
+  //     type: 'Dog',
+  //     age: 3,
+  //   },
+  //   {
+  //     name: 'Mittens',
+  //     type: 'Cat',
+  //     age: 2,
+  //   },
+  //   {
+  //     name: 'Polly',
+  //     type: 'Parrot',
+  //     age: 4,
+  //   },
+  // ];
+  animals: Animal[] = [];
 
-  constructor(private listService: ListService) {}
+  constructor(private listService: ListService) {
+    this.getAnimals();
+  }
+
+  getAnimals(): void {
+    this.listService.getAll().subscribe( (animals) => (this.animals = animals) )
+  }
 
   showAge(animal: Animal) {
     alert(`${animal.name} is ${animal.age} years old`);
