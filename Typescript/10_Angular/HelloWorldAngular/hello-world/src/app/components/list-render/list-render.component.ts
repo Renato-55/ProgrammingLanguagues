@@ -40,6 +40,7 @@ export class ListRenderComponent {
   }
 
   removeAnimal(animal: Animal) {
-    this.animals = this.listService.remove(this.animals, animal);
+    // this.animals = this.listService.remove(this.animals, animal);
+    this.listService.remove(animal.id).subscribe( () => this.getAnimals() );
   }
 }
