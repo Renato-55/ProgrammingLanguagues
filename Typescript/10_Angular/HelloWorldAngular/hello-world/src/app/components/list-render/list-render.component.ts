@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { Animal } from 'src/app/models/Animal';
-import { ListService } from 'src/app/service/list.service';
+import { ListService } from 'src/app/components/service/list.service';
 
 @Component({
   selector: 'app-list-render',

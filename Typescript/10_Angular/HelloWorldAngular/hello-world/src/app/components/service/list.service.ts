@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Animal } from '../models/Animal';
+import { Animal } from '../../models/Animal';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
@@ -16,5 +16,9 @@ export class ListService {
 
   getAll(): Observable<Animal[]> {
     return this.http.get<Animal[]>(this.apiUrl);
+  }
+
+  getItem(id: number): Observable<Animal> {
+    return this.http.get<Animal>(`${this.apiUrl}/${id}`);
   }
 }
