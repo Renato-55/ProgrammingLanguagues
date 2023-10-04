@@ -13,6 +13,10 @@ import { AboutComponent } from './components/pages/about/about.component';
 import { HomeComponent } from './components/pages/home/home.component';
 import { NewMomentComponent } from './components/pages/new-moment/new-moment.component';
 import { MomentoFormComponent } from './components/momento-form/momento-form.component';
+import { MessagesComponent } from './components/messages/messages.component';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { MomentComponent } from './components/pages/moment/moment.component';
+import { EditMomentComponent } from './components/pages/edit-moment/edit-moment.component';
 
 @NgModule({
   declarations: [
@@ -22,14 +26,18 @@ import { MomentoFormComponent } from './components/momento-form/momento-form.com
     AboutComponent,
     HomeComponent,
     NewMomentComponent,
-    MomentoFormComponent
+    MomentoFormComponent,
+    MessagesComponent,
+    MomentComponent,
+    EditMomentComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    FontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
